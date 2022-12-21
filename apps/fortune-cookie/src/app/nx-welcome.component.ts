@@ -497,7 +497,7 @@ import { Component, ViewEncapsulation } from '@angular/core';
               </svg>
               <span>
                 Documentation
-                <span> Everything is in there </span>
+                <span> Everything is in here </span>
               </span>
               <svg
                 fill="none"
@@ -843,4 +843,4 @@ nx affected:e2e</pre>
   styles: [],
   encapsulation: ViewEncapsulation.None,
 })
-export class NxWelcomeComponent {}
+export class NxWelcomeComponent { }
