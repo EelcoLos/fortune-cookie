@@ -1,0 +1,12 @@
+{
+  "projects": {},
+  "targets": {
+    "1008473279179": {
+      "hosting": {
+        "fortune-cookie-52d03.firebaseapp.com": [
+          "fortune-cookie-52d03.firebaseapp.com"
+        ]
+      }
+    }
+  }
+}

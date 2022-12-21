@@ -10,6 +10,7 @@ tmp
 node_modules
 
 # IDEs and editors
+.firebase
 /.idea
 .project
 .classpath

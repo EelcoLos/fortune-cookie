@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "site": "fortune-cookie-52d03",
+      "public": "dist/apps/fortune-cookie",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
+  ]
+}

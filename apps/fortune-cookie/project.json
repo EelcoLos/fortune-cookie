@@ -84,6 +84,12 @@
         "jestConfig": "apps/fortune-cookie/jest.config.ts",
         "passWithNoTests": true
       }
+    },
+    "deploy": {
+      "executor": "@nx-extend/firebase-hosting:deploy",
+      "options": {
+        "site": "fortune-cookie-52d03.firebaseapp.com"
+      }
     }
   },
   "tags": []
