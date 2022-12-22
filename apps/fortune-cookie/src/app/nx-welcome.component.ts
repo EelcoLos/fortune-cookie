@@ -497,7 +497,7 @@ import { Component, ViewEncapsulation } from '@angular/core';
               </svg>
               <span>
                 Documentation
-                <span> Everything is in there </span>
+                <span> Everything is in here </span>
               </span>
               <svg
                 fill="none"
